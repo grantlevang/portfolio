@@ -2,7 +2,7 @@
 
 This is a data analysis based in a Jupyter notebook with a Python engine. 
 
-The data is available in **youtube.tx**.
+The data is available in **youtube.txt**.
 
 The notebook (available as **exploratory_analysis_youtube_videos.ipynb**) contains an analysis of relationships between variables inluding visualizations and scores, and identifies the most significant variables contributing to views.
 
