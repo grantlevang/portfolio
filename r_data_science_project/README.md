@@ -8,6 +8,7 @@ Set the working directory in the R Studio session for **US_college_dataset.csv**
 
 Packages required are:
 - ggplot2
+- data.table
 - caret
 - e1071
 - rpart
