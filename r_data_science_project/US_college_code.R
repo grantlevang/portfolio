@@ -3,6 +3,7 @@
 
 ## PREDICTIVE COMPONENT
 # Read in the data
+library(data.table)
 df = data.table::fread("US_college_dataset.csv", header=T)
 head(df)
 
